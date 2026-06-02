@@ -1,9 +1,8 @@
 <!-- HERO BANNER - Ocean Blue -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,30:0d1b4b,60:0a3d8f,100:00b4d8&height=220&section=header&text=Sanjaikannan%20P&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=🌊%20Web%20Developer%20%7C%20Crafting%20the%20Web%2C%20One%20Wave%20at%20a%20Time&descAlignY=62&descSize=17&descColor=90e0ef"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,30:0d1b4b,60:0a3d8f,100:00b4d8&height=220&section=header&text=Sanjaikannan%20P&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=🤖%20Full%20Stack%20Developer%20%7C%20Building%20Smart%20Web%20Experiences&descAlignY=62&descSize=17&descColor=90e0ef"/>
 
 <div align="center">
 
-<!-- VISITOR BADGE -->
 <img src="https://komarev.com/ghpvc/?username=sanjaikannan&label=👁️+Visitors&color=00b4d8&style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-0077b6?style=flat-square&logo=statuspage&logoColor=00b4d8"/>
@@ -12,23 +11,22 @@
 
 <br/><br/>
 
-<!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=780&lines=Hey+👋+I'm+Sanjaikannan+P;Web+Developer+%7C+React+Enthusiast+🌊;HTML+%2B+CSS+%2B+JS+%2B+React+%3D+💙;MERN+Stack+Explorer+🚀;🏆+e-Quiz+Champion+%7C+IBM+Certified;Building+Ocean-Clean+UIs+One+Wave+at+a+Time" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=780&lines=Hey+👋+I'm+Sanjaikannan+P;Full+Stack+Developer+🤖+%7C+MERN+Stack;React+%2B+Node.js+%2B+MySQL+💙;IBM+Certified+%7C+JavaScript+Expert+🚀;🏆+e-Quiz+Champion+%7C+AI+Enthusiast;Turning+Ideas+into+Intelligent+Apps+🤖" />
 
 </div>
 
 ---
 
-## 🌊 About Me
+## 🤖 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 ```js
 // profile.js — Sanjaikannan P
 
 const me = {
   name       : "Sanjaikannan P",
-  role       : "Web Developer 🌐",
+  role       : "Full Stack Developer 🤖",
   location   : "Mangalampettai, Tamil Nadu 📍",
   education  : "B.Sc. CS — Muthayammal College (2021–2024)",
   email      : "sanjaikannan1525@gmail.com",
@@ -48,8 +46,8 @@ const me = {
   languages  : ["English 🇬🇧", "Tamil 🇮🇳"],
 
   award      : "🥇 1st Place — e-Quiz: HTML & Hyperlinks",
-  funFact    : "I style divs for fun and call it therapy 😄",
-  motto      : () => "Code deep. Design clean. Ship fast. 🌊",
+  funFact    : "I debug with console.log and I'm proud 🤖",
+  motto      : () => "Build smart. Design clean. Ship fast. 🚀",
 };
 ```
 
@@ -129,8 +127,6 @@ const me = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-> 💡 *To enable your own snake, add the [GitHub Action by platane](https://github.com/platane/snk) to your profile repo.*
-
 </div>
 
 ---
@@ -191,8 +187,8 @@ const me = {
 
 | 🖥️ Project | ⚙️ Stack | 🌟 Highlights |
 |:---:|:---:|:---|
-| [**🛒 E-Commerce Website**](https://github.com/sanjaikannan) | `HTML` `CSS` `JavaScript` | Responsive product catalog with cart & checkout · Dynamic DOM + localStorage · Modular JS architecture for performance |
-| [**🎨 Portfolio Website**](https://github.com/sanjaikannan) | `React.js` `Tailwind CSS` | Personal portfolio with About · Projects · Skills · Contact · Clean responsive component-based design |
+| [**🛒 E-Commerce Website**](https://github.com/sanjaikannan) | `HTML` `CSS` `JavaScript` | Responsive product catalog with cart & checkout · Dynamic DOM + localStorage · Modular JS architecture |
+| [**🎨 Portfolio Website**](https://github.com/sanjaikannan) | `React.js` `Tailwind CSS` | Personal portfolio · About · Projects · Skills · Contact · Clean responsive design |
 
 </div>
 
@@ -204,10 +200,10 @@ const me = {
 
 | 🎖️ | Achievement | Details |
 |:---:|:---|:---|
-| 🥇 | **1st Place — e-Quiz Competition** | *"Application of HTML and Creation of Hyperlinks"* · Muthayammal College of Arts & Science |
+| 🥇 | **1st Place — e-Quiz Competition** | *"Application of HTML and Creation of Hyperlinks"* · Muthayammal College |
 | 📜 | **MERN Stack Certified** | IBM-backed full stack course · SLA Institute |
 | 📜 | **JavaScript Certified** | Online JS course · IBMCE |
-| 🛠️ | **Workshop Graduate** | Web Design & Full Stack Development · ATS Institute |
+| 🛠️ | **Workshop Graduate** | Web Design & Full Stack · ATS Institute |
 
 </div>
 
@@ -228,10 +224,10 @@ const me = {
 ## 📚 Currently Learning
 
 ```
-🌊 TypeScript        →  Interfaces · Generics · TS + React
-🌊 Advanced React    →  Custom Hooks · Context API · Code Splitting
-🌊 REST APIs         →  Node.js · Express · JWT Auth · Middleware
-🌊 UI/UX Design      →  Figma Advanced · Design Systems · a11y
+🤖 TypeScript        →  Interfaces · Generics · TS + React
+🤖 Advanced React    →  Custom Hooks · Context API · Code Splitting
+🤖 REST APIs         →  Node.js · Express · JWT Auth · Middleware
+🤖 UI/UX Design      →  Figma Advanced · Design Systems · a11y
 ```
 
 ---
@@ -240,10 +236,10 @@ const me = {
 
 <div align="center">
 
-![Problem Solving](https://img.shields.io/badge/Problem--Solving-00b4d8?style=flat-square&logoColor=white)
-![Time Management](https://img.shields.io/badge/Time%20Management-0077b6?style=flat-square&logoColor=white)
-![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-023e8a?style=flat-square&logoColor=white)
-![Communication](https://img.shields.io/badge/Communication-00b4d8?style=flat-square&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem--Solving-00b4d8?style=flat-square)
+![Time Management](https://img.shields.io/badge/Time%20Management-0077b6?style=flat-square)
+![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-023e8a?style=flat-square)
+![Communication](https://img.shields.io/badge/Communication-00b4d8?style=flat-square)
 
 </div>
 
@@ -253,6 +249,10 @@ const me = {
 
 <div align="center">
 
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+
+<br/>
+
 [![Gmail](https://img.shields.io/badge/Gmail-sanjaikannan1525%40gmail.com-00b4d8?style=flat-square&logo=gmail&logoColor=white)](mailto:sanjaikannan1525@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-@sanjaikannan-0077b6?style=flat-square&logo=github&logoColor=white)](https://github.com/sanjaikannan)
@@ -261,9 +261,9 @@ const me = {
 
 <br/>
 
-**🌊 Thanks for visiting my profile! Drop a ⭐ if you like my work!**
+**🤖 Thanks for visiting! Drop a ⭐ if you like my work!**
 
-*"The ocean doesn't apologize for its depth. Neither should you."* 💙
+*"The best way to predict the future is to build it."* 💙
 
 </div>
 
