@@ -1,325 +1,271 @@
-<!-- Header Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Sanjaikannan%20P&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Enthusiast&descAlignY=70&descSize=24" width="100%"/>
+<!-- HERO BANNER - Ocean Blue -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,30:0d1b4b,60:0a3d8f,100:00b4d8&height=220&section=header&text=Sanjaikannan%20P&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=🌊%20Web%20Developer%20%7C%20Crafting%20the%20Web%2C%20One%20Wave%20at%20a%20Time&descAlignY=62&descSize=17&descColor=90e0ef"/>
 
-<!-- Main Profile Section -->
 <div align="center">
-  <h1>🚀 Welcome to My Digital Space</h1>
-  
-  <!-- Animated Typing Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Designer;Problem+Solver;Open+Source+Contributor" alt="Typing Animation"/>
-  
-  <!-- Social Links with Badges -->
-  <br><br>
-  <p>
-    <a href="mailto:sanjaikannan1525@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-sanjaikannan1525@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://github.com/sanjaikannan1525"><img src="https://img.shields.io/badge/💻%20GitHub-sanjaikannan1525-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://linkedin.com/in/sanjaikannan"><img src="https://img.shields.io/badge/🔗%20LinkedIn-Sanjaikannan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  </p>
-  
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=jai-2003&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views"/>
+
+<!-- VISITOR BADGE -->
+<img src="https://komarev.com/ghpvc/?username=sanjaikannan&label=👁️+Visitors&color=00b4d8&style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-0077b6?style=flat-square&logo=statuspage&logoColor=00b4d8"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Based%20in-Tamil%20Nadu%20🇮🇳-023e8a?style=flat-square"/>
+
+<br/><br/>
+
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=780&lines=Hey+👋+I'm+Sanjaikannan+P;Web+Developer+%7C+React+Enthusiast+🌊;HTML+%2B+CSS+%2B+JS+%2B+React+%3D+💙;MERN+Stack+Explorer+🚀;🏆+e-Quiz+Champion+%7C+IBM+Certified;Building+Ocean-Clean+UIs+One+Wave+at+a+Time" />
+
 </div>
 
 ---
 
-## 👤 About Me
+## 🌊 About Me
 
-<table>
-  <tr>
-    <td width="60%">
-      <h3>🎯 Introduction</h3>
-      <p>Hi! I'm <strong>Sanjaikannan P</strong>, a passionate Full Stack Developer and UI/UX enthusiast with expertise in building modern, scalable web applications.</p>
-      
-      <h3>📚 Education</h3>
-      <ul>
-        <li><strong>B.Sc. Computer Science</strong> - Muthayammal Arts and Science College (2021–2024)</li>
-        <li><strong>MERN Stack Certification</strong> - SLA Institute (IBM)</li>
-        <li><strong>JavaScript Certification</strong> - IBMCE</li>
-      </ul>
-      
-      <h3>🏆 Achievements</h3>
-      <ul>
-        <li>🥇 <strong>e-Quiz Champion</strong> - "Application of HTML & Creation of Hyperlinks"</li>
-        <li>📜 <strong>MERN Stack Certified Developer</strong></li>
-        <li>🎓 <strong>Multiple Workshop Completions</strong> in Full Stack Development</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" width="300"/>
-    </td>
-  </tr>
-</table>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```js
+// profile.js — Sanjaikannan P
+
+const me = {
+  name       : "Sanjaikannan P",
+  role       : "Web Developer 🌐",
+  location   : "Mangalampettai, Tamil Nadu 📍",
+  education  : "B.Sc. CS — Muthayammal College (2021–2024)",
+  email      : "sanjaikannan1525@gmail.com",
+
+  frontend   : ["HTML5", "CSS3", "Bootstrap",
+                "JavaScript", "React.js", "Tailwind CSS"],
+  backend    : ["Node.js", "Express.js"],
+  database   : ["MySQL"],
+  tools      : ["Git", "GitHub", "Figma", "VS Code"],
+
+  learning   : ["TypeScript", "Advanced React",
+                "REST APIs", "UI/UX Design"],
+
+  softSkills : ["Problem-Solving", "Time Management",
+                "Team Collaboration"],
+
+  languages  : ["English 🇬🇧", "Tamil 🇮🇳"],
+
+  award      : "🥇 1st Place — e-Quiz: HTML & Hyperlinks",
+  funFact    : "I style divs for fun and call it therapy 😄",
+  motto      : () => "Code deep. Design clean. Ship fast. 🌊",
+};
+```
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend Development
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-      </td>
-    </tr>
-  </table>
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge" alt="Responsive"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
-### ⚙️ Backend Development
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/REST-API-orange?style=for-the-badge" alt="REST API"/>
-      </td>
-    </tr>
-  </table>
-</div>
+**🎨 Frontend**
 
-### 💾 Databases & Tools
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      </td>
-    </tr>
-  </table>
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-      </td>
-    </tr>
-  </table>
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-00b4d8?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0077b6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-023e8a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-00b4d8?style=flat-square&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0077b6?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-023e8a?style=flat-square&logo=tailwind-css&logoColor=white)
 
----
+**⚙️ Backend & Database**
 
-## 📊 GitHub Analytics
+![Node.js](https://img.shields.io/badge/Node.js-00b4d8?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-0077b6?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-023e8a?style=flat-square&logo=mysql&logoColor=white)
 
-<div align="center">
-  <h3>📈 My GitHub Journey</h3>
-  
-  <!-- GitHub Stats -->
-  ![Sanjaikannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jai-2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9&cache_seconds=1800)
-  
-  <!-- Top Languages -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jai-2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9)
-  
-  <!-- Contribution Streak -->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=jai-2003&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=ff6b6b&currStreakLabel=667eea&dates=c9d1d9)](https://git.io/streak-stats)
-  
-  <!-- Contribution Graph -->
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jai-2003&theme=tokyo-night&bg_color=0d1117&color=667eea&line=667eea&point=9d84b7&area=true&hide_border=true)
-</div>
+**🔧 Tools & Design**
 
----
-
-## 💼 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🛒 E-Commerce Platform</h3>
-      <p><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript</p>
-      <p><strong>Features:</strong></p>
-      <ul>
-        <li>✅ Responsive Product Catalog</li>
-        <li>✅ Dynamic Shopping Cart</li>
-        <li>✅ Local Storage Implementation</li>
-        <li>✅ Smooth Checkout Flow</li>
-        <li>✅ Mobile Optimized UI</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🎨 Portfolio Website</h3>
-      <p><strong>Tech Stack:</strong> React.js, Tailwind CSS</p>
-      <p><strong>Features:</strong></p>
-      <ul>
-        <li>✅ About Me Section</li>
-        <li>✅ Project Showcase</li>
-        <li>✅ Skills Display</li>
-        <li>✅ Contact Form</li>
-        <li>✅ Fully Responsive Design</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 Skills & Expertise
-
-<div align="center">
-  
-| 🎯 Skill | Proficiency | Level |
-|:---|:---:|:---|
-| **HTML5 & CSS3** | ⭐⭐⭐⭐⭐ | Expert |
-| **JavaScript (ES6+)** | ⭐⭐⭐⭐ | Advanced |
-| **React.js** | ⭐⭐⭐⭐ | Advanced |
-| **Tailwind CSS** | ⭐⭐⭐⭐⭐ | Expert |
-| **Bootstrap** | ⭐⭐⭐⭐⭐ | Expert |
-| **Node.js & Express** | ⭐⭐⭐ | Intermediate |
-| **MySQL & Databases** | ⭐⭐⭐ | Intermediate |
-| **Git & GitHub** | ⭐⭐⭐⭐ | Advanced |
-| **Figma & Design** | ⭐⭐⭐ | Intermediate |
-| **REST APIs** | ⭐⭐⭐⭐ | Advanced |
+![Git](https://img.shields.io/badge/Git-00b4d8?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0077b6?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-023e8a?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-00b4d8?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>🧱 <strong>React Advanced</strong></td>
-      <td>→ Hooks, Context API, Performance Optimization</td>
-    </tr>
-    <tr>
-      <td>🌐 <strong>Backend Development</strong></td>
-      <td>→ REST APIs, Middleware, Authentication</td>
-    </tr>
-    <tr>
-      <td>🎨 <strong>UI/UX Design</strong></td>
-      <td>→ Figma, Design Systems, Accessibility</td>
-    </tr>
-    <tr>
-      <td>🗄️ <strong>Database Design</strong></td>
-      <td>→ SQL Optimization, Schema Architecture</td>
-    </tr>
-    <tr>
-      <td>📱 <strong>Mobile Development</strong></td>
-      <td>→ React Native, Mobile-First Approach</td>
-    </tr>
-  </table>
+
+<img height="172" src="https://github-readme-stats.vercel.app/api?username=sanjaikannan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00b4d8&icon_color=0077b6&text_color=90e0ef&border_radius=10"/>
+&nbsp;
+<img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikannan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=90e0ef&langs_count=8&border_radius=10"/>
+
 </div>
 
 ---
 
-## 🎯 Goals & Aspirations
+## 🔥 Streak
 
 <div align="center">
-  <table>
-    <tr>
-      <td>✅</td>
-      <td><strong>Master React and Advanced JavaScript Patterns</strong></td>
-    </tr>
-    <tr>
-      <td>🎯</td>
-      <td><strong>Build Production-Ready Full-Stack Applications</strong></td>
-    </tr>
-    <tr>
-      <td>🚀</td>
-      <td><strong>Contribute to High-Impact Open-Source Projects</strong></td>
-    </tr>
-    <tr>
-      <td>📱</td>
-      <td><strong>Explore Mobile App Development with React Native</strong></td>
-    </tr>
-    <tr>
-      <td>🌍</td>
-      <td><strong>Create Impactful Digital Solutions</strong></td>
-    </tr>
-  </table>
+
+<img src="https://streak-stats.demolab.com?user=sanjaikannan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00B4D8&fire=0077B6&currStreakLabel=00B4D8&sideLabels=90E0EF&dates=8B949E&currStreakNum=ffffff&sideNums=90e0ef&stroke=0D1117&border_radius=10"/>
+
 </div>
 
 ---
 
-## 🏆 Certifications & Awards
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🥇%20e--Quiz%20Champion-HTML%20%26%20Hyperlinks-gold?style=for-the-badge" alt="e-Quiz Champion"/>
-  <img src="https://img.shields.io/badge/📜%20MERN%20Stack%20Certified-IBM%20SLA-blue?style=for-the-badge" alt="MERN Certified"/>
-  <img src="https://img.shields.io/badge/📜%20JavaScript%20Certified-IBMCE-yellow?style=for-the-badge" alt="JavaScript Certified"/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaikannan&theme=tokyo-night&bg_color=0d1117&color=00b4d8&line=0077b6&point=90e0ef&area=true&hide_border=true"/>
+
 </div>
 
 ---
 
-## 💬 Get In Touch
+## 🐍 Contribution Snake
 
 <div align="center">
-  <h3>Let's Connect & Collaborate! 🤝</h3>
-  
-  <a href="mailto:sanjaikannan1525@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Gmail-sanjaikannan1525@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/jai-2003">
-    <img src="https://img.shields.io/badge/💻%20GitHub-jai--2003-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/sanjaikannan">
-    <img src="https://img.shields.io/badge/🔗%20LinkedIn-Sanjaikannan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-  <br><br>
-  
-  <h3>💡 Open for Opportunities</h3>
-  <p>
-    <img src="https://img.shields.io/badge/👔%20Freelance%20Projects-Available-brightgreen?style=flat-square" alt="Freelance"/>
-    <img src="https://img.shields.io/badge/🤝%20Collaborations-Welcome-blue?style=flat-square" alt="Collaborations"/>
-    <img src="https://img.shields.io/badge/📚%20Open%20Source-Contributor-orange?style=flat-square" alt="Open Source"/>
-  </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+> 💡 *To enable your own snake, add the [GitHub Action by platane](https://github.com/platane/snk) to your profile repo.*
+
 </div>
 
 ---
 
-<!-- Footer Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=footer&animation=fadeIn" width="100%"/>
+## 🏅 Trophies
 
 <div align="center">
-  <h2>✨ Thank You for Visiting! ✨</h2>
-  <p><strong>Let's build something amazing together!</strong> 🚀</p>
-  <p><sub>Made with ❤️ by <strong>Sanjaikannan P</strong> | Last Updated: June 2026</sub></p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sanjaikannan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+
 </div>
 
 ---
 
+## 💼 Work Experience & Training
+
+<details open>
+<summary>🎓 &nbsp;<b>SLA Institute — MERN Full Stack Trainee &nbsp;|&nbsp; 2023 &nbsp;|&nbsp; IBM-Backed Program</b></summary>
+<br/>
+
+> `MongoDB` `Express.js` `React.js` `Node.js` `REST APIs` `JWT`
+
+- 🔨 Built full-stack web applications covering both frontend and backend layers
+- 📡 Implemented RESTful APIs with Express.js connected to MongoDB
+- ⚛️ Developed React.js UIs with state management and component architecture
+- 🎓 Completed IBM-backed certification upon program completion
+
+</details>
+
+<details>
+<summary>📘 &nbsp;<b>IBMCE — JavaScript Developer Course &nbsp;|&nbsp; 2022–2023</b></summary>
+<br/>
+
+> `JavaScript` `DOM Manipulation` `ES6+` `Async/Await`
+
+- ✅ Mastered JavaScript fundamentals: functions, closures, events, and the DOM
+- 🔄 Covered asynchronous JS: Promises, async/await, and fetch API
+- 🏅 Received official course completion certificate from IBMCE
+
+</details>
+
+<details>
+<summary>🛠️ &nbsp;<b>ATS Institute — Web Design & Full Stack Workshop &nbsp;|&nbsp; 2022</b></summary>
+<br/>
+
+> `HTML` `CSS` `JavaScript` `Responsive Design` `Full Stack Concepts`
+
+- 🌐 Hands-on workshop: modern web design principles & full stack project building
+- 💡 Practiced responsive layouts, UI design patterns, and real-world dev workflow
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
 <div align="center">
-  <p>⭐ If you like this profile, feel free to star my repositories!</p>
+
+| 🖥️ Project | ⚙️ Stack | 🌟 Highlights |
+|:---:|:---:|:---|
+| [**🛒 E-Commerce Website**](https://github.com/sanjaikannan) | `HTML` `CSS` `JavaScript` | Responsive product catalog with cart & checkout · Dynamic DOM + localStorage · Modular JS architecture for performance |
+| [**🎨 Portfolio Website**](https://github.com/sanjaikannan) | `React.js` `Tailwind CSS` | Personal portfolio with About · Projects · Skills · Contact · Clean responsive component-based design |
+
 </div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🎖️ | Achievement | Details |
+|:---:|:---|:---|
+| 🥇 | **1st Place — e-Quiz Competition** | *"Application of HTML and Creation of Hyperlinks"* · Muthayammal College of Arts & Science |
+| 📜 | **MERN Stack Certified** | IBM-backed full stack course · SLA Institute |
+| 📜 | **JavaScript Certified** | Online JS course · IBMCE |
+| 🛠️ | **Workshop Graduate** | Web Design & Full Stack Development · ATS Institute |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| 🎓 Degree | 🏫 Institution | 📅 Year |
+|:---:|:---:|:---:|
+| **B.Sc. Computer Science** | Muthayammal Arts & Science College | 2021 – 2024 |
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+```
+🌊 TypeScript        →  Interfaces · Generics · TS + React
+🌊 Advanced React    →  Custom Hooks · Context API · Code Splitting
+🌊 REST APIs         →  Node.js · Express · JWT Auth · Middleware
+🌊 UI/UX Design      →  Figma Advanced · Design Systems · a11y
+```
+
+---
+
+## 🤝 Soft Skills
+
+<div align="center">
+
+![Problem Solving](https://img.shields.io/badge/Problem--Solving-00b4d8?style=flat-square&logoColor=white)
+![Time Management](https://img.shields.io/badge/Time%20Management-0077b6?style=flat-square&logoColor=white)
+![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-023e8a?style=flat-square&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-00b4d8?style=flat-square&logoColor=white)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-sanjaikannan1525%40gmail.com-00b4d8?style=flat-square&logo=gmail&logoColor=white)](mailto:sanjaikannan1525@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-@sanjaikannan-0077b6?style=flat-square&logo=github&logoColor=white)](https://github.com/sanjaikannan)
+&nbsp;
+[![Phone](https://img.shields.io/badge/📞-9363668618-023e8a?style=flat-square)](tel:+919363668618)
+
+<br/>
+
+**🌊 Thanks for visiting my profile! Drop a ⭐ if you like my work!**
+
+*"The ocean doesn't apologize for its depth. Neither should you."* 💙
+
+</div>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:0a0a2e&height=140&section=footer&animation=twinkling"/>
