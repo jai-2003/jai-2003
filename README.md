@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sanjaikannan+P+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Building+Amazing+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sanjaikannan+P+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Cool+Stuff+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </div>
 
@@ -69,10 +69,10 @@ const sanjaikannan = {
 
 <div align="center">
   <a href="https://github.com/sanjaikannan1525">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjaikannan1525&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&text_color=8b949e" alt="GitHub Stats"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjaikannan1525&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/sanjaikannan1525">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikannan1525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=8b949e" alt="Top Languages"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikannan1525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9" alt="Top Languages" />
   </a>
 </div>
 
@@ -81,7 +81,7 @@ const sanjaikannan = {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sanjaikannan1525&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=sanjaikannan1525&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E" alt="GitHub Streak" />
 </div>
 
 ---
@@ -89,7 +89,7 @@ const sanjaikannan = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaikannan1525&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaikannan1525&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
