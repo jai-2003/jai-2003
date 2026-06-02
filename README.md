@@ -255,7 +255,7 @@ const me = {
 
 [![Gmail](https://img.shields.io/badge/Gmail-sanjaikannan1525%40gmail.com-00b4d8?style=flat-square&logo=gmail&logoColor=white)](mailto:sanjaikannan1525@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-@jai-2003-0077b6?style=flat-square&logo=github&logoColor=white)](https://github.com/jai-2003)
+[![GitHub](https://img.shields.io/badge/GitHub-@sanjaikannan-0077b6?style=flat-square&logo=github&logoColor=white)](https://github.com/sanjaikannan)
 &nbsp;
 [![Phone](https://img.shields.io/badge/📞-9363668618-023e8a?style=flat-square)](tel:+919363668618)
 
